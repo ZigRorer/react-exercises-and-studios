@@ -1,17 +1,13 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "name": "Extra-Crispy Fried Chicken With Caramelized Honey and Spice",
+     "author": "Sohla El-Waylly",
+     "description": "Inspired by Popeyes, this fried chicken has that signature airy crust of rugged and scraggy bits, coupled with some personal touches.",
+     "website": "https://www.seriouseats.com/extra-crispy-fried-chicken-with-caramelized-honey-and-spice",
+     "recipeImage": "https://www.seriouseats.com/thmb/CzELl_mmcTh_Qc60OO5vp8JO2YE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2018__05__20180427-fried-chicken-honey-chili-vicky-wasik-21-c49ecaec6d1e41dda338b5be7243cbe6.jpg",
+     "authorImage": "https://assets-global.website-files.com/644e0b16c3356ea44f61b368/6450b37bb84eb2d61767f166_Rectangle%2013.png",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+       "chicken", "buttermilk", "hot sauce", "garlic", "onion"
      ]
    }
  ]
